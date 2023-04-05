@@ -218,3 +218,12 @@ body{
     margin: 20px;
     width: 300px;
 }
+
+/* footer */
+footer {
+    padding: 30px;
+    color: white;
+    background-color: #463525;
+    text-align: center;
+    font-weight: bold;
+ }
